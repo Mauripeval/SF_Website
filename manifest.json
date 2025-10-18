@@ -5,8 +5,8 @@
     {
       "name": "GameCore",
       "file": "https://www.dropbox.com/scl/fi/1s3f7dq3k0xh7d8odfdc8/ShinobiFrontier_1.0.0.zip?rlkey=eve7sjiw9mc6272uz1ngzo794&st=ki4s74ke&dl=1",
-      "size": 79437022,
-      "sha256": "635BB2849BDB7B3050E6E47995076B2057484DBCE3C5B39DAC0C548FB82559AE",
+      "size": 79356956,
+      "sha256": "9243A2C16DB49B8E731B93A6B1C6ED6D365263F8F2F62EA3466621D5537190C8",
       "installDir": "Game",
       "stripRootFolder": true
     }
