@@ -12,7 +12,7 @@
     }
   ],
   "launch": {
-    "exe": "Game/otclient.exe",
+    "exe": "Game/otclient_dx_x64.exe",
     "args": "--no-console"
   },
   "news": [
