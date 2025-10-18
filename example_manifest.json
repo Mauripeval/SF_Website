@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "minLauncherVersion": "1.0.0",
+  "packages": [
+    {
+      "name": "GameCore",
+      "file": "ShinobiFrontier_1.0.0.zip",
+      "size": 12345678,
+      "sha256": "put-real-sha256-here",
+      "installDir": "Game",
+      "stripRootFolder": true
+    }
+  ],
+  "launch": {
+    "exe": "Game/otclient.exe",
+    "args": "--no-console"
+  },
+  "news": [
+    {
+      "date": "2025-10-18",
+      "title": "Welcome shinobi!",
+      "text": "Launcher MVP ready. Auto-updates + news + play."
+    }
+  ]
+}
