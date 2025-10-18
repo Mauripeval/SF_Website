@@ -5,8 +5,8 @@
     {
       "name": "GameCore",
       "file": "ShinobiFrontier_1.0.0.zip",
-      "size": 12345678,
-      "sha256": "dev-placeholder",
+      "size": 79437022,
+      "sha256": "635BB2849BDB7B3050E6E47995076B2057484DBCE3C5B39DAC0C548FB82559AE",
       "installDir": "Game",
       "stripRootFolder": true
     }
